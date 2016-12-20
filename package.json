@@ -45,7 +45,7 @@
     "url": "https://github.com/zeit/serve/issues"
   },
   "homepage": "https://github.com/zeit/serve#readme",
-  "devDependencies": {
+  "dependencies": {
     "babel-plugin-transform-async-to-generator": "6.16.0",
     "babel-plugin-transform-es2015-modules-commonjs": "6.18.0",
     "gulp": "3.9.1",
@@ -53,9 +53,7 @@
     "gulp-cached": "1.1.0",
     "gulp-chmod": "2.0.0",
     "gulp-sass": "3.0.0",
-    "xo": "0.17.1"
-  },
-  "dependencies": {
+    "xo": "0.17.1",
     "args": "2.2.1",
     "basic-auth": "1.1.0",
     "chalk": "1.1.3",
