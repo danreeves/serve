@@ -6,7 +6,7 @@
     "start": "gulp",
     "prepublish": "gulp build",
     "test": "xo",
-    "preinstall": "gulp build"
+    "postinstall": "gulp build"
   },
   "files": [
     "dist",
